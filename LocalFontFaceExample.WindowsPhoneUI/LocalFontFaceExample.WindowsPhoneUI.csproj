@@ -144,6 +144,8 @@
     </Content>
     <Content Include="Html\css\phone.css" />
     <Content Include="Html\index.html" />
+    <Content Include="Html\css\font-awesome.css" />
+    <Content Include="Html\fonts\fontawesome-webfont.ttf" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\AppResources.resx">
