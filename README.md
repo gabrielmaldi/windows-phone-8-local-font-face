@@ -20,15 +20,15 @@ You can check out the commits on this repo to quickly see the required changes a
 	- But only if you own the font: http://en.wikipedia.org/wiki/TrueType#Embedding_protection
 - **Only works on Windows Phone 8 with Update 2 (GDR2) or superior.**
 	- You can download the emulators running the updates from [here](https://dev.windowsphone.com/en-us/downloadsdk) to try it out.
-	- This sample was tested both on emulators and on actual devices running Windows Phone 8 without updates, with GDR1, with GDR2, and with GDR3.
+	- This sample was tested both on emulators and on actual devices running Windows Phone 8 without updates, with GDR1, with GDR2, and with GDR3, and Windows Phone 8.1 Preview.
 
 ## Screenshots
 
-- Working (GDR2 and GDR3):
+- Working (GDR2, GDR3, and 8.1 Preview):
 
 ![](https://raw.github.com/gabrielmaldi/windows-phone-8-local-font-face/master/images/windows-phone-8-gdr2-gdr3.png)
 
-- Not working (Windows Phone 8 without updates or with GDR1):
+- Not working (Windows Phone 8 without updates or just GDR1):
 
 ![](https://raw.github.com/gabrielmaldi/windows-phone-8-local-font-face/master/images/windows-phone-8-without-updates-gdr1.png)
 
