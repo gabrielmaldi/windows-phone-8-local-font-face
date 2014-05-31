@@ -1,4 +1,4 @@
-# Local @font-face Example
+# Local @font-face Example [![Build status](https://ci.appveyor.com/api/projects/status/6huphtr5ahs50p1g)](https://ci.appveyor.com/project/gabrielmaldi/windows-phone-8-local-font-face)
 
 A Visual Studio solution which shows how to use @font-face in Windows Phone 8 WebBrowser control with fonts embedded in the XAP.
 
